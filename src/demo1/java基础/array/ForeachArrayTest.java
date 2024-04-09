@@ -14,6 +14,7 @@ public class ForeachArrayTest {
         {
             //将已赋值的arr输出
             System.out.println(arr);
+            //
         }
     }
 }
